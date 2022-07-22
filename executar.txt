@@ -1,0 +1,4 @@
+gcc -c data.c
+gcc -c main.c
+gcc data.o main.o -o project
+.\project
